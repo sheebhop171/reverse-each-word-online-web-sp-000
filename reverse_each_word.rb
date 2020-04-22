@@ -10,5 +10,5 @@
 
 def reverse_each_word(sentence)
   sentence1 = sentence.split(" ") #converts sentence from string to array
-  sentence1.reverse
+  sentence.reverse
 end
