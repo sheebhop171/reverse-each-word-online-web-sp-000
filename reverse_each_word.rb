@@ -2,6 +2,7 @@
    sentence1 = sentence.split
    sentence2 = []
    sentence1.collect do |word|
-  sentence2 << "#{word}".reverse
+   sentence2 << "#{word}".reverse
    end
+   sentence2
  end
