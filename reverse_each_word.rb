@@ -3,6 +3,7 @@
    sentence2 = []
    sentence1.collect do |word|
    sentence2 << "#{word}".reverse
+   sentence3 = sentence2.join
    end
-   sentence2
+   sentence3
  end
