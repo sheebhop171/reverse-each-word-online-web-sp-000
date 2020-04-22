@@ -5,5 +5,4 @@
    sentence2 << "#{word}".reverse
    sentence3 = sentence2.join
    end
-   sentence3
  end
