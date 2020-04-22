@@ -7,8 +7,3 @@
   end
   sentence3
  end
-
-def reverse_each_word(sentence)
-  sentence1 = sentence.split(" ") #converts sentence from string to array
-  sentence.reverse
-end
