@@ -6,7 +6,3 @@
 #  sentence3 = sentence2.join #reverts array back to string
   end
  end
-
- def reverse_each_word(sentence)
-   sentence1.reverse
- end
