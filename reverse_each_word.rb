@@ -5,5 +5,4 @@
   sentence2.reverse << "#{word}" #reverse word & puts it into new array
   sentence3 = sentence2.join #reverts array back to string
   end
-  sentence3
  end
